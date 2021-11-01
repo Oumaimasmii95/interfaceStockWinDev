@@ -1,0 +1,13 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=E	;Analysis GUID
+LOCALIZATION_UTF8=F2D2506DA75943D7A8FB095D8FFA2797	famille	C:\Mes Projets\GestionDeStock\Exe\famille.fic
+LOCALIZATION_UTF8=D6C2194798914FF5BA5F438430A984A1	fournisseur	C:\Mes Projets\GestionDeStock\Exe\fournisseur.fic
+LOCALIZATION_UTF8=7910F2C76A7A4FD9B35895A46386741B	produit	C:\Mes Projets\GestionDeStock\Exe\produit.fic
+LOCALIZATION_UTF8=8B4CC761EA4446B8B2F9449499C6EA3E	magasin	C:\Mes Projets\GestionDeStock\Exe\magasin.fic
+LOCALIZATION_UTF8=D47A136D5F2740DCB44FAE41FFF174E5	produit_magasin	C:\Mes Projets\GestionDeStock\Exe\produit_magasin.fic
+LOCALIZATION_UTF8=ABB597AE58A94BC5908AC2EBDEFA0ED4	stock	C:\Mes Projets\GestionDeStock\Exe\stock.fic
+LOCALIZATION_UTF8=ABEAB9CBC85148FAB9313E4B7E0C40BC	entrer_stock	C:\Mes Projets\GestionDeStock\Exe\entrer_stock.fic
+LOCALIZATION_UTF8=8EB4E4A44EE14343A4FF11DF17016619	sortie_stock	C:\Mes Projets\GestionDeStock\Exe\sortie_stock.fic
+LOCALIZATION_UTF8=357CBC111EB340E6BB3FCA36D75BC39C	service	C:\Mes Projets\GestionDeStock\Exe\service.fic
+LOCALIZATION_UTF8=8BB1E08D2C6E45FB99FA85960D16F19E	personnel	C:\Mes Projets\GestionDeStock\Exe\personnel.fic

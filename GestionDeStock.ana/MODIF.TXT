@@ -1,0 +1,20 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+fournisseur		TAR	733	nouvelle taille enregistrement : 733
+fournisseur	numerofournisseur	RUB+		numerofournisseur est une nouvelle rubrique
+produit		TAR	388	nouvelle taille enregistrement : 388
+produit	saisiele	CNW	Date (aaaammjj)$Chaîne	la rubrique saisiele a pour nouveau type Date (aaaammjj)
+produit	IDentrer_stock	RUB+		IDentrer_stock est une nouvelle clé
+magasin		NFI		nouveau fichier
+produit_magasin		NFI		nouveau fichier
+stock		NFI		nouveau fichier
+entrer_stock		NFI		nouveau fichier
+sortie_stock		NFI		nouveau fichier
+service		NFI		nouveau fichier
+personnel		NFI		nouveau fichier
+Contrainte_magasin_prpd_magasin		NWL	magasin (IDmagasin) et produit_magasin (IDmagasin)	Nouvelle liaison entre les fichiers magasin (IDmagasin) et produit_magasin (IDmagasin)
+Contrainte_produit_prpd_magasin		NWL	produit (reference) et produit_magasin (reference)	Nouvelle liaison entre les fichiers produit (reference) et produit_magasin (reference)
+Contrainte_produit_stock		NWL	produit (reference) et stock (Reference)	Nouvelle liaison entre les fichiers produit (reference) et stock (Reference)
+Contrainte_magasin_stock		NWL	magasin (IDmagasin) et stock (IDmagasin)	Nouvelle liaison entre les fichiers magasin (IDmagasin) et stock (IDmagasin)
+Contrainte_stock_sortie_stock		NWL	stock (IDstock) et sortie_stock (IDstock)	Nouvelle liaison entre les fichiers stock (IDstock) et sortie_stock (IDstock)
+Contrainte_produit_entrer_stock		NWL	produit (reference) et entrer_stock (Reference)	Nouvelle liaison entre les fichiers produit (reference) et entrer_stock (Reference)
+produit_magasin		FRN		

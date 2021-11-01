@@ -1,0 +1,6 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+famille		NFI		nouveau fichier
+fournisseur		NFI		nouveau fichier
+produit		NFI		nouveau fichier
+Contrainte_famille_produit		NWL	famille (codeFamille) et produit (CodeFamille)	Nouvelle liaison entre les fichiers famille (codeFamille) et produit (CodeFamille)
+Contrainte_fournisseur_produit		NWL	fournisseur (IDfournisseur) et produit (IDfournisseur)	Nouvelle liaison entre les fichiers fournisseur (IDfournisseur) et produit (IDfournisseur)
